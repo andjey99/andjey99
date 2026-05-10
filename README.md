@@ -1,6 +1,6 @@
-# Hallo, ich bin Andjey! 👋
+# Hallo, ich bin Alex 👋
 
-Willkommen auf meinem GitHub-Profil! Ich habe große Freude daran, Dinge zu entwickeln, komplexe Probleme zu lösen und kontinuierlich neue Fähigkeiten zu erlernen.
+Willkommen auf meinem GitHub-Profil! 
 
 ## 🚀 Über mich
 - 🔭 Ich arbeite aktuell an spannenden Projekten mit **Java, Python, Go, .NET und JavaScript**.
