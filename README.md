@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hallo, ich bin Andjey! 👋
 
-<!--
-**andjey99/andjey99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Willkommen auf meinem GitHub-Profil! Ich habe große Freude daran, Dinge zu entwickeln, komplexe Probleme zu lösen und kontinuierlich neue Fähigkeiten zu erlernen.
 
-Here are some ideas to get you started:
+## 🚀 Über mich
+- 🔭 Ich arbeite aktuell an spannenden Projekten mit **Java**, **Python** und mehr.
+- 🌱 Ich erweitere derzeit meine Fähigkeiten in der Softwareentwicklung und im Projektmanagement.
+- 💡 Ich liebe es, die Brücke zwischen technischer Umsetzung und der eigentlichen Geschäftsstrategie zu schlagen.
+- 📫 So erreichst du mich: **[Hier deine E-Mail oder deinen LinkedIn-Link eintragen]**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Fähigkeiten & Tools
+### Programmiersprachen & Technologien
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+### Fachwissen & Soft Skills
+- 📈 **Workforce Management & Controlling**
+- 🤝 **Projektmanagement & Organisation**
+- 🧠 **Problemlösung & Strategie**
+
+## 📌 Meine Top-Projekte
+Hier sind einige meiner besten Repositories. Ich arbeite gerne an technischen Lösungen sowie an strategischen Business Cases:
+
+- 🚂 **[train_management_service](https://github.com/andjey99/train_management_service)**: Ein Java-basierter Service zur Verwaltung von Zugbetriebsabläufen.
+- 👥 **[workforce.management](https://github.com/andjey99/workforce.management)**: Eine Python-Anwendung für effiziente Personalplanung und Fairness-Modellierung.
+- 🍽️ **[Restaurantapp](https://github.com/andjey99/Restaurantapp)** & ♻️ **[Recycling](https://github.com/andjey99/Recycling)**: Projekte zur Erforschung verschiedener Anwendungsbereiche und technischer Implementierungen.
+
+*(Zusätzlich arbeite ich an Business Cases, Datenanalysen und konzeptionellen Projekten, um mein Wissen möglichst breit aufzustellen!)*
+
+## 📊 GitHub Statistiken
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=andjey99&show_icons=true&theme=tokyonight&locale=de" alt="andjey99's GitHub stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=andjey99&theme=tokyonight&locale=de" alt="andjey99's GitHub streak" width="48%" />
+</p>
+
+---
+⭐️ Von [andjey99](https://github.com/andjey99)
