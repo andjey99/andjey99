@@ -41,11 +41,7 @@ Willkommen auf meinem GitHub-Profil! Ich habe große Freude daran, Dinge zu entw
 - 👥 **[workforce.management](https://github.com/andjey99/workforce.management)**: Eine Python-Anwendung für effiziente Personalplanung und Fairness-Modellierung.
 
 
-## 📊 GitHub Statistiken
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=andjey99&show_icons=true&theme=tokyonight&locale=de" alt="andjey99's GitHub stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=andjey99&theme=tokyonight&locale=de" alt="andjey99's GitHub streak" width="48%" />
-</p>
+
 
 ---
 ⭐️ Von [andjey99](https://github.com/andjey99)
