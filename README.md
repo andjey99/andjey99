@@ -6,7 +6,7 @@ Willkommen auf meinem GitHub-Profil!
 - 🔭 Ich arbeite aktuell an spannenden Projekten mit **Java, Python, Go, .NET und JavaScript**.
 - 🌱 Ich erweitere derzeit meine Fähigkeiten in der Softwareentwicklung, im Machine Learning und im Research.
 - 💡 Ich liebe es, die Brücke zwischen technischer Umsetzung und wissenschaftlicher/geschäftlicher Strategie zu schlagen.
-- 📫 So erreichst du mich: **[Hier deine E-Mail oder deinen LinkedIn-Link eintragen]**
+- 📫 So erreichst du mich: Zurzeit nicht verfügbar
 
 ## 🛠️ Fähigkeiten & Tools
 ### Programmiersprachen & Technologien
